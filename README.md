@@ -1,34 +1,60 @@
-<h1 align="center">Sagar Kapoor</h1>
+# 👋 Hello, I'm Sagar Kapoor!
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23FF5733.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-%230B8B87.svg?style=for-the-badge" alt="Data Structures & Algorithms">
-  <img src="https://img.shields.io/badge/HTML-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+![GitHub followers](https://img.shields.io/github/followers/SagarKapoorin?style=social) ![GitHub stars](https://img.shields.io/github/stars/SagarKapoorin?style=social)
+
+## 🚀 About Me
+
+🎓 **B.Tech in Computer Science & Engineering** (2022-2026)  
+📍 **Based in India** | ✉️ [Email Me](mailto:sagarbadal70@gmail.com)
+
+I’m a **Software Engineer** passionate about crafting innovative solutions with a focus on **frontend development, backend systems**, and **real-time applications**. My mission? To create seamless user experiences and optimize application performance.
+
+## 🏆 Achievements
+
+- **LeetCode**: Rated 1838 (Top 6.28%), solved 200+ problems 🧩  
+- **Codeforces**: Rated 1433 (Max) 🔥  
+- **Open Source Contributor**: Participated in Hacktoberfest 2023 🌍  
+- **Constructor Open Cup 2024**: Ranked **#326**
+
+## 🛠 Tech Stack
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
+![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SagarKapoorin&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarKapoorin&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-kapoor1/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagarKapoorin)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/SagarKa/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/BurningHash)
 
 ---
 
-👋 Hi there! I'm Sagar Kapoor, a passionate developer and currently a student. Here's a bit about my interests:
-
-- 💻 I enjoy coding in **Java** and exploring different software development concepts.
-- ⚙️ I'm into **Data Structures & Algorithms** and love solving complex problems.
-- 🌐 I'm skilled in web development with **HTML**, **CSS**, and **JavaScript**.
-- 📡 I work with **Node.js** for server-side development and **React.js** for building dynamic web applications.
-- 📊 I have experience with **SQL** and **MongoDB** for database management.
-- 🎨 I use **Bootstrap** for creating responsive and attractive web interfaces.
-- 📜 I version control my code using **Git** and host my projects on **GitHub**.
-
-Feel free to explore my repositories to see my work and projects. Don't hesitate to connect with me!
-
-📫 You can reach me at [My Email Address](mailto:sagarbadal70@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sagar-kapoor1/).
-
-Happy coding! 🚀
+💡 *"Keep learning, keep building!"*
