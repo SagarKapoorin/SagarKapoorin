@@ -79,7 +79,6 @@ _June 2024 – Sep 2024 (Bangalore)_
 ## 📊 GitHub Vibes
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SagarKapoorin&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Sagar's GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=SagarKapoorin&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 ---
