@@ -100,15 +100,6 @@ _June 2024 – Sep 2024 (Bangalore)_
   />
 </p>
 
-<!-- Productivity -->
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SagarKapoorin&theme=radical&utcOffset=5.5" 
-    height="165" 
-    alt="Productive Time"
-  />
-</p>
-
 <!-- Small Contribution Graph -->
 <p align="center">
   <img 
