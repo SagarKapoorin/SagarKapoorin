@@ -74,20 +74,25 @@ _June 2024 – Sep 2024 (Bangalore)_
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,jest,linux" />
 </p>
 
-## 📊 GitHub Vibes
+## 🚀 GitHub Stats & Contributions
 
+<!-- Streak -->
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=SagarKapoorin&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=SagarKapoorin&theme=radical&hide_border=true" 
+    height="165" 
+    alt="GitHub Streak"
+  />
 </p>
+
+<!-- Stats + Top Languages -->
 <p align="center">
-  <!-- GitHub Stats Card -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SagarKapoorin&theme=radical" 
     height="165" 
     alt="GitHub Stats"
   />
-  
-  <!-- Top Languages -->
+  &nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SagarKapoorin&theme=radical" 
     height="165" 
@@ -95,17 +100,8 @@ _June 2024 – Sep 2024 (Bangalore)_
   />
 </p>
 
+<!-- Productivity -->
 <p align="center">
-  <!-- Contribution Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SagarKapoorin&theme=radical&hide_border=true" 
-    height="165" 
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <!-- Productivity -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SagarKapoorin&theme=radical&utcOffset=5.5" 
     height="165" 
@@ -113,14 +109,15 @@ _June 2024 – Sep 2024 (Bangalore)_
   />
 </p>
 
+<!-- Small Contribution Graph -->
 <p align="center">
-  <!-- Contribution Activity Graph -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=SagarKapoorin&theme=dracula&hide_border=true" 
     alt="Contribution Graph"
+    width="700"
   />
 </p>
----
+
 
 ## 🌐 Connect
 
