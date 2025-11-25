@@ -82,20 +82,6 @@ _June 2024 – Sep 2024 (Bangalore)_
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SagarKapoorin&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Sagar's GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=SagarKapoorin&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarKapoorin&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top languages" />
-</p>
-
-<!-- Optional Snake (works after you set up the GitHub Action in your repo) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SagarKapoorin/SagarKapoorin/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SagarKapoorin/SagarKapoorin/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/SagarKapoorin/SagarKapoorin/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ---
 
 ## 🌐 Connect
